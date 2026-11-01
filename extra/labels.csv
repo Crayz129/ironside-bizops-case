@@ -1,0 +1,27 @@
+recap,transcript,expected,why (read by hand)
+workers/output/bad-recap.md,workers/output/bad-recap-source.md,fail,private DM posted; GMV typed in; no owners or dates
+brain/knowledge/meetings/2026-08-12-kettle-and-crumb-affiliates-kickoff.md,,pass,approved recap already in the brain
+brain/knowledge/meetings/2026-09-03-kettle-and-crumb-affiliates-deep-dive.md,,pass,approved recap already in the brain
+brain/knowledge/meetings/2026-09-10-loop-athletic-weekly.md,,pass,approved recap already in the brain
+brain/knowledge/meetings/2026-09-17-kettle-and-crumb-weekly.md,,pass,approved recap already in the brain
+brain/knowledge/meetings/2026-09-22-kettle-and-crumb-weekly.md,inbox/call-1.md,pass,A1 after review
+brain/knowledge/meetings/2026-09-24-kettle-and-crumb-monthly-business-review.md,inbox/call-2.md,pass,A2 after review
+c2-runs/before-1/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,size chart owner and date invented
+c2-runs/before-2/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,size chart owner and date invented
+c2-runs/before-3/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,size chart owner and date invented
+c2-runs/nobrain-1/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,GMV typed in; no template or action table
+c2-runs/nobrain-2/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,GMV typed in; no template or action table
+c2-runs/nobrain-3/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,fail,GMV typed in; no template or action table
+c2-runs/after-v1-1/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v1-2/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v1-3/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v2-1/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v2-2/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v2-3/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v3-1/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v3-2/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/after-v3-3/2026-09-15-loop-athletic-weekly.md,workers/output/bad-recap-source.md,pass,
+c2-runs/heldout-call1-1/2026-09-22-kettle-and-crumb-weekly.md,inbox/call-1.md,fail,says weekly figures are in the sheet; they are not
+c2-runs/heldout-call1-2/2026-09-22-kettle-and-crumb-weekly.md,inbox/call-1.md,fail,says affiliate GMV is in the sheet; it is not
+c2-runs/heldout-call2-1/2026-09-24-kettle-and-crumb-monthly-business-review.md,inbox/call-2.md,pass,a note inside the due cell; a person would accept it
+c2-runs/heldout-call2-2/2026-09-24-kettle-and-crumb-monthly-business-review.md,inbox/call-2.md,pass,

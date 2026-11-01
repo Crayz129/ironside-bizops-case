@@ -1,0 +1,13 @@
+#pod-south, Friday 18 Sep 2026
+
+Marcus Obi, 4:12 PM
+Honestly the recap bot is slower than my own notes. By the time it posts I've already sent the client my version, so we just skip it.
+
+Tomas Leal, 4:15 PM
+same. it posted the K&C one like 80 min after the call. Dana had my summary by then
+
+Marcus Obi, 4:16 PM
+if it posted in 10-15 min I'd use it. the content is fine when it shows up
+
+Priya Nair (Head of Ops), 4:31 PM
+Simplest fix for October: count the summaries you already email clients as recaps, even when they don't get posted. You're doing the work anyway, so it should count. Let's report it that way.

@@ -1,0 +1,30 @@
+{
+  "transcript": "inbox/call-1.md",
+  "model": "sonnet",
+  "skill": "workers/skills/skill-recap.md",
+  "skill_sha": "8af35f23efde",
+  "stages_s": {
+    "cut": 0.0,
+    "agent": 39.1,
+    "gate": 0.01,
+    "total": 39.12
+  },
+  "lines_cut_after_client_left": 5,
+  "cost_usd": 0.1330255,
+  "permission_denials": [],
+  "recap": "knowledge/meetings/2026-09-22-kettle-and-crumb-weekly.md",
+  "checks": {
+    "file name YYYY-MM-DD-slug.md": true,
+    "front matter complete": true,
+    "all template sections": true,
+    "summary is 3 to 6 bullets": true,
+    "every action item has owner and YYYY-MM-DD due": true,
+    "no performance numbers typed in": true,
+    "no private or commercial content": true,
+    "no opinions about people or the call": true,
+    "claims about the sheet match its columns": true,
+    "nothing from after the client left": true
+  },
+  "posted": true,
+  "problems": []
+}

@@ -1,0 +1,30 @@
+{
+  "transcript": "workers/output/bad-recap-source.md",
+  "model": "sonnet",
+  "skill": "workers/skills/skill-recap.md",
+  "skill_sha": "8af35f23efde",
+  "stages_s": {
+    "cut": 0.0,
+    "agent": 24.23,
+    "gate": 0.0,
+    "total": 24.24
+  },
+  "lines_cut_after_client_left": 2,
+  "cost_usd": 0.1053011,
+  "permission_denials": [
+    {
+      "tool_name": "Write",
+      "tool_use_id": "toolu_018zUZeBaaQFXLhUGDWBsPXk",
+      "tool_input": {
+        "file_path": "./brain/knowledge/meetings/2026-09-15-loop-athletic-weekly.md",
+        "content": "---\ntype: meeting\ndate: 2026-09-15\naccount: loop-athletic\nattendees: [Theo Grant, Lena Varga]\nsource: inbox/bad-recap-source.md\n---\n\n# Loop Athletic: weekly\n\n## Summary\n- Fall collection creator videos: all 12 delivered. The last 4 were in the try-on format Theo asked for on [2026-09-10](2026-09-10-loop-athletic-weekly.md).\n- Theo said the try-on videos are performing better than the earlier ones.\n- Decision: the October batch is 12 more videos, all in the try-on format.\n- Theo raised an issue with the size chart on the product page.\n- Performance numbers: see `../reference/accounts-sheet.csv`, row `loop-athletic`.\n\n## Action items\n| Owner | Action | Due |\n|---|---|---|\n| Lena Varga | Send Theo the brief for the October batch of 12 try-on videos | 2026-09-18 (Friday after the call) |\n\n## Open questions\n- Size chart issue on the product page: no owner and no date were agreed. Lena said \"we'll look into it\"; Theo said \"someone should look at\" it. Needs an owner and a due date.\n\n## Flags for a person\n- A performance figure stated on the call differs from the sheet. It was not copied here and the sheet is unchanged. Lena Varga to review.\n"
+      }
+    }
+  ],
+  "recap": null,
+  "checks": {},
+  "posted": false,
+  "problems": [
+    "expected exactly one new recap, got new files: []"
+  ]
+}

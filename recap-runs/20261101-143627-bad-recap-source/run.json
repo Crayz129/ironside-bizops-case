@@ -1,0 +1,30 @@
+{
+  "transcript": "workers/output/bad-recap-source.md",
+  "model": "sonnet",
+  "skill": "workers/skills/skill-recap.md",
+  "skill_sha": "8af35f23efde",
+  "stages_s": {
+    "cut": 0.0,
+    "agent": 44.92,
+    "gate": 0.01,
+    "total": 44.93
+  },
+  "lines_cut_after_client_left": 2,
+  "cost_usd": 0.09933,
+  "permission_denials": [],
+  "recap": "knowledge/meetings/2026-09-15-loop-athletic-weekly.md",
+  "checks": {
+    "file name YYYY-MM-DD-slug.md": true,
+    "front matter complete": true,
+    "all template sections": true,
+    "summary is 3 to 6 bullets": true,
+    "every action item has owner and YYYY-MM-DD due": true,
+    "no performance numbers typed in": true,
+    "no private or commercial content": true,
+    "no opinions about people or the call": true,
+    "claims about the sheet match its columns": true,
+    "nothing from after the client left": true
+  },
+  "posted": true,
+  "problems": []
+}

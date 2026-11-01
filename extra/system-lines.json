@@ -1,0 +1,4 @@
+{
+  "left": ["[{name} left the call]"],
+  "not_left": ["[Recording ended]"]
+}
