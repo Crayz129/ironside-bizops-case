@@ -5,7 +5,7 @@
 > Marcus, you said it in #pod-south on the 18th: the bot is slower than your notes, and you'd use it at 10-15 minutes. You're right, it's the delay: 20 of your 34 recaps this month came after the hour.
 > This week, let's post the summary you already write for the client into their Slack channel instead of emailing it. Same text, the client still gets it, and it counts.
 > I'll join your calls Monday and Tuesday and post the recaps myself, so it costs you nothing to try.
-> Meanwhile I'm pushing engineering to get the bot under 15 minutes.
+> Meanwhile I'm getting engineering to stop the bot posting on top of you and to make it faster.
 > If it isn't easier than email by Friday, we stop.
 
 ## What he'll push back with, and what keeps it going
